@@ -1,0 +1,4 @@
+Serializer for validating data to and from DB
+
+https://www.django-rest-framework.org/api-guide/serializers/
+
